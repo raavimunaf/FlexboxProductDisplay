@@ -1,5 +1,7 @@
 # FlexboxProductDisplay
 
+WATCH DEMO: https://youtu.be/MshRcq8-a-o
+
 This GitHub repository contains a comprehensive tutorial and code example for creating a horizontal product display using CSS flexbox. 
 
 Learn how to:
@@ -11,4 +13,6 @@ Learn how to:
 - Style product titles, descriptions, prices, and "Add to Cart" buttons
 
 Enhance your web design skills and create visually captivating product displays with the power of CSS flexbox.
+
+WATCH DEMO: https://youtu.be/MshRcq8-a-o
 
